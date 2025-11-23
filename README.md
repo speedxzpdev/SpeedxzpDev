@@ -1,6 +1,6 @@
 <h1 align=center> 👋Olá, meu nome é João Guilherme! </h1>
 
-**Tenho 14 anos, comecei a codar há 5 meses, e gosto de fazer bots divertidos!**
+**Tenho 14 anos, comecei a codar há 5 meses, e faço um bot ae**
 
 <h1 align=center>🚀Sobre mim</h1>
 
