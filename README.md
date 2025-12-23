@@ -4,7 +4,7 @@
 
 <h1 align=center>🚀Sobre mim</h1>
 
-- 💡Estou trabalhando na **MoonBot**(Discord-v14).
+- 💡Estou trabalhando na **Yuki**(WhatsApp-baileys).
 - 🌱 Atualmente estudando **JavaScript**, **MongoDB** e **Git.**
 - 🔍 Tenho interesse nas aréas **FrontEnd**, **BackEnd** e **Automação.**
 
