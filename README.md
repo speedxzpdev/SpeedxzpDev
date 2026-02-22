@@ -1,6 +1,6 @@
 <h1 align=center> 👋Olá, meu nome é João Guilherme! </h1>
 
-**Tenho 14 anos, comecei a codar há 5 meses, e faço um bot ae**
+**Tenho 15 anos, comecei a codar há 8 meses.**
 
 <h1 align=center>🚀Sobre mim</h1>
 
@@ -14,9 +14,8 @@
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/node.js-5FA04E?logo=node.js&logoColor=white)
-- ![Pyhton](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord.js&logoColor=white)
+- ![telegraf](https://img.shields.io/badge/Discord.js-5865F2?logo=telegra.ph&logoColor=white)
 
 ### 📚Já usei / Estudando:
 
