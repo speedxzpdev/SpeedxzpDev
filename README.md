@@ -15,7 +15,7 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/node.js-5FA04E?logo=node.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![telegraf](https://img.shields.io/badge/Discord.js-5865F2?logo=telegra.ph&logoColor=white)
+- ![telegraf](https://img.shields.io/badge/Telegraf5865F2?logo=telegra.ph&logoColor=white)
 
 ### 📚Já usei / Estudando:
 
