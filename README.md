@@ -1,30 +1,15 @@
-<h1 align=center> 👋Olá, meu nome é João Guilherme! </h1>
+![kanekiImage](./assets/kaneki.jpg)
 
-**Tenho 15 anos, comecei a codar há 8 meses.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Speedxzp+Loves+Nodejs!)](https://git.io/typing-svg)
 
-<h1 align=center>🚀Sobre mim</h1>
+Meu nome é **João Guilherme** e sou estudante do ensino médio, tenho **15 anos** e gosto de construir e facilitar a vida das pessoas com minhas aplicações.
 
-- 💡Estou trabalhando na **Yuki**(WhatsApp-baileys).
-- 🌱 Atualmente estudando **JavaScript**, **MongoDB** e **Git.**
-- 🔍 Tenho interesse nas aréas **FrontEnd**, **BackEnd** e **Automação.**
+<h1 align="center">Stack</h1>
 
-<h1 align=center>🔨Tecnologias</h1>
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,redis,mongo)
 
-### 🔥Principais:
+<h1 align="center">Contribuições</h1>
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/node.js-5FA04E?logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![telegraf](https://img.shields.io/badge/Telegraf5865F2?logo=telegra.ph&logoColor=white)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=speedxzpdev&theme=dracula)](https://github.com/speedxzpdev/github-readme-activity-graph)
 
-### 📚Já usei / Estudando:
-
-- ![html](https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white)
-- ![css](https://img.shields.io/badge/css-663399?logo=css&logoColor=white)
-- ![express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
-
-
-<h1 align=center>📞Contato</h1>
-
-**Discord:** [speedkkz](https://discord.com/users/930516519782346775)
-
+Como já dizia alguém "Se alguém não apoia oque você faz então manda ela tomar no cu.", Adeus.
